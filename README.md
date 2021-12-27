@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi i'm Zach!
+
+Right now im into:
+- 🏠 Home Automation
+- 🤖 DevOps
+- 🐍 Hacking stuff together with Python
 
 <!--
 **ZacheryThomas/ZacheryThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
