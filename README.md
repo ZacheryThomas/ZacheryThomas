@@ -1,5 +1,4 @@
-snake charmer 🐍
-<br>yaml farmer ⛑️
+Computer, load up CELERY MAN please
 
 <!-- ### Hi i'm Zach!
 
