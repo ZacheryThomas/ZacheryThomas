@@ -1,5 +1,7 @@
 Computer, load up CELERY MAN please
 
+![Drag Racing](https://i.pinimg.com/originals/81/4d/ba/814dbac95e54ed7bf8d4ceff418a58ed.gif)
+
 <!-- ### Hi i'm Zach!
 
 ![k](https://picsum.photos/200)
