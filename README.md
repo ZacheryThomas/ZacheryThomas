@@ -1,6 +1,6 @@
-Computer, load up CELERY MAN please
+LGTM
 
-![Drag Racing](https://i.pinimg.com/originals/81/4d/ba/814dbac95e54ed7bf8d4ceff418a58ed.gif)
+![o](https://media3.giphy.com/media/XreQmk7ETCak0/200w.gif?cid=6c09b952ccfv51yd8vm4sydey3foz6yqkvo54t8qg92rknag&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
 <!-- ### Hi i'm Zach!
 
