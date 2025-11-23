@@ -1,6 +1,4 @@
-LGTM
-
-![o](https://media3.giphy.com/media/XreQmk7ETCak0/200w.gif?cid=6c09b952ccfv51yd8vm4sydey3foz6yqkvo54t8qg92rknag&ep=v1_gifs_search&rid=200w.gif&ct=g)
+LGTM!
 
 <!-- ### Hi i'm Zach!
 
